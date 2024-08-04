@@ -25,3 +25,5 @@ A conda environment is available in `environment.yaml`. To create and activate i
 conda env create -f environment.yaml
 conda activate swt
 ```
+
+[RE DEMO PRESENTATION.pptx](https://github.com/user-attachments/files/16487082/RE.DEMO.PRESENTATION.pptx)
